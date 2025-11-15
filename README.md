@@ -20,6 +20,9 @@ Data Cleaning, Dimensional Modeling, DAX Calculations, KPI Development, Time Int
 
 <img width="1102" height="610" alt="image" src="https://github.com/user-attachments/assets/d3368d6b-0b7c-4f85-83f4-7f3a8e71b9c4" />
 
+<img width="1322" height="735" alt="image" src="https://github.com/user-attachments/assets/95943964-69fd-40b9-b9aa-7320d34c6596" />
+
+<img width="1320" height="730" alt="image" src="https://github.com/user-attachments/assets/9049b70d-c0df-4fb5-b9e1-a6b9bb68b8c8" />
 
 <img width="1085" height="706" alt="image" src="https://github.com/user-attachments/assets/8f8d2552-9aa2-436e-8688-45f80782a7f5" />
 
